@@ -10,7 +10,7 @@
 
 clone下代码后在emoji.py所在目录执行python3 emoji.py，然后就可视化的选择表情所在文件夹就可以啦~然后就能读入所有表情：
 
-![](/home/chenliangzhi/Tool/Markdown_emoji/pic1.png)
+![](pic1.png)
 
 选择想要插入的表情单击一下就复制起来啦，比如复制了`![](emoji/QQ20230803-172525.png)`这样一段文字在剪贴板，然后去Markdown里粘贴就可以啦~
 
